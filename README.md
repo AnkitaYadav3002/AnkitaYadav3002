@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankita Yadav</h1>
-<h3 align="center">Aspiring Web Developer</h3>
+<h3 align="center">Aspiring Frontend Developer</h3>
 
 - 🌱 I’m currently learning **HTML,CSS, JS, ReactJs**
 
